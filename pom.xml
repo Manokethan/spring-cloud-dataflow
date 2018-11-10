@@ -55,6 +55,7 @@
 		<sonar-maven-plugin.version>3.0.2</sonar-maven-plugin.version>
 		<checkstyle.config.location>src/checkstyle/checkstyle.xml</checkstyle.config.location>
 		<semver.version>2.2.0</semver.version>
+		<spring-cloud-scheduler-quartz.version>1.0.0.RELEASE</spring-cloud-scheduler-quartz.version>
 	</properties>
 	<modules>
 		<module>spring-cloud-dataflow-configuration-metadata</module>
